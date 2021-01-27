@@ -930,6 +930,7 @@ ul {
 
 .single-blog-item {
   position: relative;
+  margin-top: -120px;
   z-index: 1;
   box-shadow: 0 0 30px 0 rgba(0, 0, 0, 0.1); }
   .single-blog-item .blog-content {
@@ -939,7 +940,8 @@ ul {
       font-size: 20px;
       font-weight: 700;
       display: block;
-      margin-bottom: 10px; }
+      margin-bottom: 10px; 
+    }
       .single-blog-item .blog-content .post-title:focus, .single-blog-item .blog-content .post-title:hover {
         color: #00aeef; }
       @media only screen and (min-width: 992px) and (max-width: 1199px) {
