@@ -367,7 +367,7 @@ ul {
       padding: 0 20px; } }
   .dento-btn.active, .dento-btn:focus, .dento-btn:hover {
     box-shadow: none;
-    background-color: transparent;
+    background-color: white;
     color: #00aeef; }
   .dento-btn.btn-2:focus, .dento-btn.btn-2:hover {
     background-color: #ffffff;
@@ -1428,7 +1428,7 @@ ul {
   text-align: center; }
   .copywrite-content p {
     font-size: 12px;
-    color: #b7b7b7;
+    color: white;
     margin-bottom: 0; }
     .copywrite-content p span {
       font-weight: 500;
